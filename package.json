@@ -1,0 +1,24 @@
+{
+  "name": "object-mock",
+  "version": "1.0.0",
+  "description": "Mock object properties temporarily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejewski/object-mock.git"
+  },
+  "keywords": [
+    "object",
+    "testing",
+    "mock"
+  ],
+  "author": "Chris Andrejewski <christopher.andrejewski@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrejewski/object-mock/issues"
+  },
+  "homepage": "https://github.com/andrejewski/object-mock#readme"
+}
